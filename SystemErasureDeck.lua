@@ -2,7 +2,7 @@
 --- MOD_NAME: System Erasure Deck
 --- MOD_ID: SEDeck
 --- PREFIX: SE
---- MOD_AUTHOR: [gooeyPhantasm and pyadny]
+--- MOD_AUTHOR: [gooeyPhantasm and AndyPandy27]
 --- MOD_DESCRIPTION: System Erasure Cards
 --- LOADER_VERSION_GEQ: 1.0.0
 --- VERSION: 1.0.0

@@ -13,7 +13,7 @@ This mod for **Balatro** adds skins for each suit with art of characters from [*
 
 ## Credits
 
-Art by pyadny. High contrast versions by gooeyPhantasm.
+Art by AndyPandy27. High contrast versions by gooeyPhantasm.
 
 Template for deck skins by Victin.
 
