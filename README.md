@@ -7,7 +7,7 @@ This mod for **Balatro** adds skins for each suit with art of characters from [*
 ## Install
 
 1. Ensure you have [Steamodded](https://github.com/Steamodded/smods) downloaded.
-2. Download the release.
+2. Download the [release](https://github.com/gPhantasm/Balatro-SEDeck/releases/latest).
 3. Extract to `%appdata/Balatro/Mods`.
 4. Open Balatro.
 
